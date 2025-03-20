@@ -1,4 +1,4 @@
-print ('Suma de cadenas de caracteres')
+print ('Suma de una cadenas de caracteres')
 
 N1 = 'Hola'
 N2 = 'Mundo'
