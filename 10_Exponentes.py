@@ -1,4 +1,4 @@
-n = int(input("Ingresa un valor: "))
+n = int(input("Ingresa un valor: ")) 
 x = 0
 e = 2
 for i in range(1, n + 1):
