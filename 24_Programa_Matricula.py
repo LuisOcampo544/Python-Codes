@@ -22,7 +22,7 @@ if x==1 or x ==2:
                 num2=f"00{num}"
                 a = str(año)+str(x)+str(1)+str(num2)
                 print("Tu matricula es: ",a)
-           case "2":
+           case "2": 
               if num >= 10 and num<=99:
                 num1=f"0{num}"
                 a = str(año)+str(x)+str(2)+str(num1)
