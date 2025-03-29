@@ -3,7 +3,7 @@ import time ##Biblioteca de tiempo
 
 a = 0 
 
-while a <= 9:
+while a <= 9: 
     a = a + 1
     m = 1
 
