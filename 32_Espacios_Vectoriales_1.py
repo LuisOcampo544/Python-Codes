@@ -15,7 +15,7 @@ def solve_and_print(S, vec, vec_name):
     A = S.T
     b = vec
     
-    print_matrix(A, b)
+    print_matrix(A, b) 
     
     try:
         # Resolver el sistema de ecuaciones lineales Sx = vec
