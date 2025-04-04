@@ -3,7 +3,7 @@ import numpy as np
 def print_matrix(A, b):
     """Imprimir la matriz aumentada"""
     augmented_matrix = np.hstack([A, b.reshape(-1, 1)])
-    print("Matriz aumentada:")
+    print("Matriz aumentada:") 
     print(augmented_matrix)
     print()
 
