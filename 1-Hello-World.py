@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 print ('Hola Mundo')
-print ('Mi nombre es Luis Carlos Ocampo Rivera') 
+print ('Mi nombre es Luis Carlos Ocampo Rivera')  
 =======
 print ('Hola Mundo')      
 print ('Me llamo Luis Carlos Ocampo Rivera')   
