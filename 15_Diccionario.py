@@ -4,7 +4,7 @@ diccionario = {
     'altura' : "1.75",
     'edad' : "19",
     'amigo' : "Cofa",
-    'grupo' : "3201",
+    'grupo' : "3201", 
 }
 
 print(diccionario['nombre'])
