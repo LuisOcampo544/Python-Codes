@@ -18,7 +18,7 @@ def sumar_matriz(matriz, valor):
         nueva_fila = [elemento + valor for elemento in fila]
         suma.append(nueva_fila)
     return suma
-
+ 
 def restar_matriz(matriz, valor):
     resta = []
     for fila in matriz:
