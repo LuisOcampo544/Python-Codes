@@ -7,7 +7,7 @@ while a <= 9:
     a = a + 1
     m = 1
 
-    time.sleep(3)
+    time.sleep(3) 
     os.system("cls")
 
     while m <= 10:
