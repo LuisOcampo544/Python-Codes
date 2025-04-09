@@ -6,3 +6,4 @@ for i in range(1, n + 1):
     e += 1
 r = x / n
 print("Resultado: ", r)
+ 
