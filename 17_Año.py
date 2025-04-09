@@ -3,7 +3,7 @@ fecha = datetime.now()
 print(fecha)
 
 import datetime
-fecha = datetime.datetime.now()
+fecha = datetime.datetime.now() 
 print(fecha)
 
 año = datetime.datetime.strftime(fecha, "%Y")
