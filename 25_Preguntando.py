@@ -1,6 +1,6 @@
 acu = 0
 while True: #Al menos una vez
-    n1 = (input("Teclea un número o Presione X para salir del programa: "))
+    n1 = (input("Teclea un número o Presione X para salir del programa: ")) 
     if (n1 == "x"):
         break #Rompe el ciclo  
     else:
