@@ -1,4 +1,4 @@
-import pulp as p
+import pulp as p 
 Lp_prob = p.LpProblem('Problem1',p.LpMaximize)
 
 # Decision Variables
