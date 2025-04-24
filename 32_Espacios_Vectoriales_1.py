@@ -5,7 +5,7 @@ def print_matrix(A, b):
     augmented_matrix = np.hstack([A, b.reshape(-1, 1)])
     print("Matriz aumentada:") 
     print(augmented_matrix)
-    print()
+    print() 
 
 def solve_and_print(S, vec, vec_name):
     print(f"Resolviendo para el vector {vec_name}:")
