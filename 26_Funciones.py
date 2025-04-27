@@ -10,7 +10,7 @@ def resta():
     z = x - r
     print ("El resultado de la resta es: ", z)
 
-def multiplicacion():
+def multiplicacion(): 
     x = int(input("Dame un número: "))
     r = int(input("Dame otro número: "))
     z = x * r
