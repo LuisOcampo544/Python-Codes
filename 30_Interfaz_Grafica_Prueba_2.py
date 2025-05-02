@@ -3,7 +3,7 @@ import tkinter as Tk #Alias Tk
 def suma():
     num1 = int(entry_num1.get()) #entry_num1 es una caja de texto 1
     num2 = int(entry_num2.get()) #entry_num2 es una caja de texto 2
-    resultado = num1 + num2
+    resultado = num1 + num2 
     label_resultado.config(text = "Resultado: " + str(resultado)) #Asigna el texto de label_resultado
  
 def resta():
