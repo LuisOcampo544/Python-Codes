@@ -5,7 +5,7 @@ d3 = {"Nombre" : "Jose", "Edad" : 25, "Direccion" : "Jilotepec", "Correo": "pepe
 
 print(d1)
 print(d2)
-print(d3)  
+print(d3)   
 
 print(d1["Nombre"]) #Samantha
 print(d1.get("Direccion")) #Consultar Direccion 
