@@ -3,7 +3,7 @@ fecha=datetime.datetime.now()
 import datetime
 año=datetime.datetime.strftime( fecha,"%Y")
 x=int (input ("Ingresa el periodo en el que ingresaste: "))
-
+ 
 if x==1 or x ==2:
     num=int (input ("Ingresa tu numero de estudiante: ")) 
     if num<=999:
