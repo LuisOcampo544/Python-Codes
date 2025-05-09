@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 from matplotlib.widgets import CheckButtons
-
+ 
 # Definir los datos para cada función
 t_a = np.linspace(-2, 6, 1000)
 x_a = np.sqrt(2*t_a + 4)
