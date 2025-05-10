@@ -15,7 +15,7 @@ y_b = 3 * np.sin(t_b)
 t_c = np.linspace(0, 10, 1000)
 x_c = t_c
 y_c = 2*t_c**2 - 3
-
+ 
 t_d = np.linspace(0, 10, 1000)
 x_d = 3*t_d - 2
 y_d = 18*t_d**2 - 24*t_d + 6
