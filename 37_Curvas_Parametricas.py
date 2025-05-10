@@ -9,7 +9,7 @@ x_a = np.sqrt(2*t_a + 4)
 y_a = 2*t_a + 1
 
 t_b = np.linspace(0, 2*np.pi, 1000)
-x_b = 4 * np.cos(t_b)
+x_b = 4 * np.cos(t_b) 
 y_b = 3 * np.sin(t_b)
 
 t_c = np.linspace(0, 10, 1000)
