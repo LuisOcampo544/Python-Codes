@@ -12,7 +12,7 @@ def Par_Impar():
         print ('El número es par') 
     else:
         print ('El número es impar')
-
+ 
 def If_Anidado():
     x = int(input('Ingresa tu calificación --> '))
     if x > 100:
