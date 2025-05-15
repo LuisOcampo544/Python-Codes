@@ -5,7 +5,7 @@ def X_Tabla():
         print(f"{x} x {a} = {x * a}")
         a += 1  
 
-def Par_Impar():
+def Par_Impar(): 
     print ('Número Par o Impar')
     N1 = int(input('Dame un número: '))
     if N1 % 2 == 0:
