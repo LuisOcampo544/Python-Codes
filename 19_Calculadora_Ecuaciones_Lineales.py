@@ -7,7 +7,7 @@ def resolver_ecuaciones_lineales():
     variables = symbols('x1:%d' % (num_ecuaciones + 1))
 
     coeficientes = []
-    resultados = []
+    resultados = [] 
 
     for i in range(1, num_ecuaciones + 1):
         coef = input(f"Ingrese los coeficientes de la ecuación {i} separados por espacios: ").split()
