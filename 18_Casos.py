@@ -7,7 +7,7 @@ print("(*) Multiplica a * b")
 print("(/) Divide a / b")
 
 simbolo = input("Ingresa la operación insertando el simbolo: ")
-
+ 
 match simbolo:
     case "+":
         print ("El resultado es: ", (a+b))
