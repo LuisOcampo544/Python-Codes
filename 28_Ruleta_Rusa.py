@@ -1,5 +1,5 @@
 import random
-
+ 
 def numeros(): 
     x = random.randint(0,5)
     if x == 1:
