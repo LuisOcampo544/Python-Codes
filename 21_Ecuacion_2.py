@@ -7,7 +7,7 @@ A = np.array([
     [6, 1], # 6X1 + X2 = -36
     [-4, 9], # - 4X1 + 9X2 = -13
     [1, -3] # X1 - 3X2 = 12
-])
+]) 
 
 # Resultados de las ecuaciones
 B = np.array([-4, -36, -13, 12])
