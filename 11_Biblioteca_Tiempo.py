@@ -2,7 +2,7 @@ import os ##Biblioteca que la interfaz interactua con el sistema operativo
 import time ##Biblioteca de tiempo
 
 a = 0    
-
+ 
 while a <= 9:  
     a = a + 1
     m = 1
