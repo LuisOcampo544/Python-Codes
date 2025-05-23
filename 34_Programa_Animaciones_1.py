@@ -10,7 +10,7 @@ def rot_matrix(theta):
 # Configuración inicial del gráfico
 fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(10, 5))
 axes = [ax1, ax2]
-
+ 
 for ax, label in zip(axes, ['A', 'B']):
     ax.set_xlim(-1.5, 1.5)
     ax.set_ylim(-1.5, 1.5)
