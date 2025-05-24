@@ -4,7 +4,7 @@ def X_Tabla():
     while a <= 10: #Ciclo
         print(f"{x} x {a} = {x * a}")
         a += 1  
-
+ 
 def Par_Impar(): 
     print ('Número Par o Impar')
     N1 = int(input('Dame un número: '))
