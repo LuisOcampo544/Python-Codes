@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
-
+ 
 # Datos iniciales
 vx = 9  # Componente de la velocidad en x (m/s)
 g = 9.81  # Aceleración debido a la gravedad (m/s^2)
