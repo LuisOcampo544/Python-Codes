@@ -6,7 +6,7 @@ def numeros():
          print(x , "Pierdes")
     else:
         print(x , "Ganas")
-
+ 
 ruleta = input("Presione la tecla 1: ")
 
 match ruleta:
