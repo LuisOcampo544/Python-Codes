@@ -8,7 +8,7 @@ def resolver_ecuaciones_lineales():
 
     coeficientes = []
     resultados = [] 
-
+ 
     for i in range(1, num_ecuaciones + 1):
         coef = input(f"Ingrese los coeficientes de la ecuación {i} separados por espacios: ").split()
         coef = list(map(int, coef))
