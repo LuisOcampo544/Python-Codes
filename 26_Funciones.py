@@ -3,7 +3,7 @@ def suma():
     r = int(input("Dame otro número: "))
     z = x + r
     print ("El resultado de la suma es: ", z)
-
+ 
 def resta():
     x = int(input("Dame un número: "))
     r = int(input("Dame otro número: "))
