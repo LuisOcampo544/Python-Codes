@@ -1,6 +1,6 @@
 # Elaborado por Luis Carlos Ocampo Rivera
 from sympy import symbols, Eq, solve
-
+ 
 def resolver_ecuaciones_lineales():
     num_ecuaciones = int(input("Ingrese el número de ecuaciones lineales: "))
 
