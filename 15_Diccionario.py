@@ -6,7 +6,7 @@ diccionario = {
     'amigo' : "Cofa",
     'grupo' : "3201", 
 }
-
+ 
 print(diccionario['nombre'])
 print(diccionario['altura'])
 print(diccionario['edad'])
