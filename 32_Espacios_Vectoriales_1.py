@@ -6,7 +6,7 @@ def print_matrix(A, b):
     print("Matriz aumentada:") 
     print(augmented_matrix)
     print() 
-
+ 
 def solve_and_print(S, vec, vec_name):
     print(f"Resolviendo para el vector {vec_name}:")
     print(f"Vector a comprobar: {vec}")
