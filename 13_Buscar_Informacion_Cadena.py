@@ -1,5 +1,5 @@
 print("Buscar informacion dentro de una cadena")
-
+ 
 palabra = "Hola TEC de Jilo"    
 busca = palabra.find("TEC") 
 
