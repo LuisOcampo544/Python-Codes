@@ -1,6 +1,6 @@
 import tkinter
 from tkinter import font
-
+ 
 # Funciones
 
 def insertar_boton0():
